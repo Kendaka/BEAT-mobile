@@ -21,7 +21,6 @@ export default function TabTwoScreen() {
           style={styles.headerImage}
         />
       }>
-        // TODO: Update greeting
       <ThemedView style={styles.titleContainer}>
         <ThemedText
           type="title"
