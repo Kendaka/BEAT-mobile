@@ -27,7 +27,7 @@ export default function TabTwoScreen() {
           style={{
             fontFamily: Fonts.rounded,
           }}>
-          added themed text
+          added themed
         </ThemedText>
       </ThemedView>
       <ThemedText>Themed</ThemedText>
