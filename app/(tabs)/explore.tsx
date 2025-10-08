@@ -30,7 +30,7 @@ export default function TabTwoScreen() {
           added themed text
         </ThemedText>
       </ThemedView>
-      <ThemedText>This</ThemedText>
+      <ThemedText></ThemedText>
       <Collapsible title="File-based routing">
         <ThemedText>
           This app has two screens:{' '}
