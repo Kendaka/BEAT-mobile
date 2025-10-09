@@ -39,7 +39,7 @@ export default function TabTwoScreen() {
         </ThemedText>
         <ThemedText>
           The layout  in <ThemedText type="defaultSemiBold">app/(tabs)/_layout.tsx</ThemedText>{' '}
-          sets up the 
+          ses up the 
         </ThemedText>
         <ExternalLink href="https://docs.expo.dev/router/introduction">
           <ThemedText type="link"> </ThemedText>
