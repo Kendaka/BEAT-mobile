@@ -53,7 +53,7 @@ export default function TabTwoScreen() {
       </Collapsible>
       <Collapsible title="Images">
         <ThemedText>
-          For  images, you can use the <ThemedText type="defaultSemiBold">@2x</ThemedText> and{' '}
+          For  , you can use the <ThemedText type="defaultSemiBold">@2x</ThemedText> and{' '}
           <ThemedText type="defaultSemiBold">@x</ThemedText>  to provide files for
            screen 
         </ThemedText>
