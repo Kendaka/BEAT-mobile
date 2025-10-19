@@ -1,3 +1,4 @@
+// App.ts
 const join = {
     greet: function(name: string): string {
         return `Hello, ${name}!`;
