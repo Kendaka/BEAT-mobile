@@ -1,11 +1,20 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "beat-mobile",
     "slug": "beat-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "beatmobile",
+=======
+    "name": "smart-helmet-mobile",
+    "slug": "smart-helmet-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "smarthelmetmobile",
+>>>>>>> 55dd48d6e6708a335a57395290b0490cab59adc5
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
