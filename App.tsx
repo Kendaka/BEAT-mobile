@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>BEAT — Bio-Environmental Alert Technology</Text>
-      <Text style={styles.subtitle}>Smart Helmet Safety System</Text>
+      <Text style={styles.subtitle}>It's a smart helmet system by the way!</Text>
     </View>
   );
 }
