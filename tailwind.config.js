@@ -6,13 +6,19 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        project: ["Orbitron-Bold", "sans-serif"],
+        heading: ["Poppins-SemiBold", "sans-serif"],
+        subheading: ["Exo2-Medium", "sans-serif"],
+        body: ["Inter-Regular", "sans-serif"],
+      },
       colors: {
-        primary: "#1E88E5",
-        secondary: "#43A047",
-        accent: "#F44336", 
-        text: "#212121", 
-        background: "#F5F5F5",
-      }
+        primary: "#1565C0",
+        secondary: "#00ACC1",
+        accent: "#FF6F00",
+        text: "#ECEFF1",
+        background: "#121212",
+      },
     },
   },
   plugins: [],
