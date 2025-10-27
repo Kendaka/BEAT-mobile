@@ -10,7 +10,7 @@ module.exports = {
         project: ["Orbitron-Bold", "sans-serif"],
         heading: ["Poppins-SemiBold", "sans-serif"],
         subheading: ["Exo2-Medium", "sans-serif"],
-        body: ["Inter-", "sans-serif"],
+        body: ["Inter-Regular", "sans-serif"],
       },
       colors: {
         primary: "#1565C0",
