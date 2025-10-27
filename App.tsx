@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   },
   title: {
     color: '#00bfff',
-    fontSize: 22,
+    fontSize: 21,
     fontWeight: '700',
     textAlign: 'center',
     marginBottom: 10,
