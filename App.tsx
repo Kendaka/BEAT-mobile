@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
     fontSize: 22,
     fontWeight: '700',
     textAlign: 'center',
-    marginBottom: 10,
+    marginBottom: 0,
   },
   subtitle: {
     color: '#cccccc',
