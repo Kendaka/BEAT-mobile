@@ -11,6 +11,14 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
+
+  title: {
+    color: '#00bfff',
+    fontSize: 22,
+    fontWeight: '700',
+    textAlign: 'center',
+    marginBottom: 10,
+  },
   subtitle: {
     color: '#cccccc',
     fontSize: 16,
