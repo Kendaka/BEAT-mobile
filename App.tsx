@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}> BEAT - Bio Env Alert</Text>
+      <Text style={styles.title}> BEAT - Bio Env Alert Technology</Text>
       <Text style={styles.subtitle}>It's intellect helmet system by the way! Hopepfully I can finish this until the end.!</Text>
     </View>
   );
