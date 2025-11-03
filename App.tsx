@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}> BEAT - Bio Env Alert Technology</Text>
-      <Text style={styles.subtitle}>Hopepfully I can finish this until </Text>
+      <Text style={styles.subtitle}>Hopepfully I can finish this </Text>
     </View>
   );
 }
