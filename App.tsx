@@ -19,7 +19,6 @@ const styles = StyleSheet.create({
   },
   title: {
     color: '#00bfff',
-    fontSize: 15,
   },
   subtitle: {
     color: '#',
