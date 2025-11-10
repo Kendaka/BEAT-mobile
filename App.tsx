@@ -14,7 +14,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#121212',
   },
   subtitle: {
-    textAlign: 'center',
+    textAlign: 'center', ask kenda lo amre lorem ipsumma knek alo a
   },
 });
 
+ maska n lorem ipsu m lodsaj losadas asaa k
