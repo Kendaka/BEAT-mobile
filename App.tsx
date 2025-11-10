@@ -18,4 +18,4 @@ const styles = StyleSheet.create({
   },
 });
 
- maska n lorem ipsu m
+ maska n 
