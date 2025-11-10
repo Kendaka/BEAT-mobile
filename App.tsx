@@ -18,4 +18,3 @@ const styles = StyleSheet.create({
   },
 });
 
- maska n 
