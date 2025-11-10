@@ -14,7 +14,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#121212',
   },
   subtitle: {
-    textAlign: 'center', ask kenda lo amre lorem ipsum
-  },
+    textAlign: 'center', ask kenda 
 });
 
