@@ -14,6 +14,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#121212',
   },
   subtitle: {
-    textAlign: 'center', ask kenda 
+    textAlign: 'center', 
 });
 
