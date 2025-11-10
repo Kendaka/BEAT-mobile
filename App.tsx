@@ -15,5 +15,5 @@ const styles = StyleSheet.create({
   },
   subtitle: {
     textAlign: 'center', 
-});
+}});
 
