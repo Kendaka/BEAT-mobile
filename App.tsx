@@ -9,8 +9,5 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  container: {
-    backgroundColor: '#121212',
-  }
 })
 
