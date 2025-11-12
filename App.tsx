@@ -6,7 +6,7 @@ export default function App() {
     <View> 
       
       {/* Your app content goes here */}
-        <AppContent />
+        
 
     </View>
   );
