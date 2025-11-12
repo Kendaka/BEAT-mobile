@@ -3,7 +3,12 @@ import { View } from 'react-native';
 
 export default function App() {
   return (
-    <View>  </View>
+    <View> 
+      
+      {/* Your app content goes here */}
+        <AppContent />
+
+    </View>
   );
 }
 
