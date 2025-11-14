@@ -6,7 +6,7 @@ export default function App() {
     <View> 
       
       {/* Your app content goes  */}
-      <Text>Welcome to my React Nati!</Text>
+      <Text>Welcome to my React!</Text>
 
 
     </View>
