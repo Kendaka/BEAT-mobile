@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View> 
       
-      {/* Your app content goes here */}
+      {/* Your app content goes  */}
       <Text>Welcome to my React Nati!</Text>
 
 
