@@ -6,7 +6,7 @@ export default function App() {
     <View> 
       
       {/* Your app content goes here */}
-      <Text>Welcome to my React Native Ap!</Text>
+      <Text>Welcome to my React Nati!</Text>
 
 
     </View>
