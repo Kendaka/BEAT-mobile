@@ -5,9 +5,6 @@ export default function App() {
   return (
     <View> 
       
-      {/* Your app content goes  */}
-      <Text>Welcome !</Text>
-
 
     </View>
   );
