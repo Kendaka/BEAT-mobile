@@ -1,12 +1,11 @@
 import React from 'react';
-import { Text, View } from 'react-native';
-
+import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   return (
-    <View> 
+    <View style={styles.container}> 
       <Text style={styles.title}>GEAT System</Text>
-       <Text style={styles.subtitle}>Bio-Environmental Safety On The Go</Text>
+      <Text style={styles.subtitle}>Bio-Environmental Safety On The Go</Text>
     </View>
   );
 }
@@ -14,9 +13,9 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'right',
-    alignItems: 'left',
-    backgroundColor: '#f2f4',
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#f2f4f7',
   },
   title: {
     fontSize: 24,
@@ -28,4 +27,3 @@ const styles = StyleSheet.create({
     color: '#777',
   },
 });
-
