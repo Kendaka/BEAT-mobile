@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}> 
-      <Text style={styles.title}>GEAT System</Text>
+      <Text style={styles.title}>GEAT BEAt</Text>
       <Text style={styles.subtitle}>Bio-Environmental Safety On The Go</Text>
     </View>
   );
