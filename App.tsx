@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
   },
   subtitle: {
     fontSize: 12,
-    marginTop: 4,
+    marginTop: 2,
     color: '#777',
   },
 });
