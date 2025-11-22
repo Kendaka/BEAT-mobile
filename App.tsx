@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}> 
       <Text style={styles.title}>Task Beat</Text>
-      <Text style={styles.subtitle}>-Environmental Safety On The Go</Text>
+      <Text style={styles.subtitle}> Safety On The Go</Text>
     </View>
   );
 }
