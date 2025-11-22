@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 19,
-    fontWeight: '600',
+    fontWeight: '400',
   },
   subtitle: {
     fontSize: 12,
