@@ -22,6 +22,6 @@ const styles = StyleSheet.create({
   },
   subtitle: {
     fontSize: 4,
-    marginBottom: 5,
+    marginBottom: 2,
   },
 });
