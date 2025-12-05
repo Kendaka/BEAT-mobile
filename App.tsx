@@ -24,6 +24,6 @@ const styles = StyleSheet.create({
   subtitle: {
     fontSize: 1,
     marginBottom: 3,
-    color: '#234567',
+    color: '#4567',
   },
 });
