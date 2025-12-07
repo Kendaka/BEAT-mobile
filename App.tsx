@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#09',
   },
   title: {
-    fontSize: 60,
+    fontSize: 40,
     fontWeight: '200',
     color: '#adcfh',
   },
