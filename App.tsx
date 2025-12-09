@@ -13,7 +13,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 4,
-    backgroundColor: '#09',
+    backgroundColor: '#1209',
   },
   title: {
     fontSize: 10,
